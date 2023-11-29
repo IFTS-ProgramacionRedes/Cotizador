@@ -21,7 +21,7 @@ Funciones incluidas en su menú
 -------------------------
 | Carga de datos: 
 | 1. Histórico
-### Restablece el histórico de cotizaciones en la BD.
+## Restablece el histórico de cotizaciones en la BD.
 | 2. Actualización
 ## Actualiza las cotizaciones a la fecha actual en la BD.
 | Consultas:
